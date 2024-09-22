@@ -1,0 +1,17 @@
+//coment
+(*coment
+coment
+
+
+
+*)
+
+program ex02;
+var num, num2, soma: integer;
+begin
+    num := 10;
+    num2 := 5;
+    soma := num + num2;
+    soma := soma - num2;
+    write(soma);
+end.
