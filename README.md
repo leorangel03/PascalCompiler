@@ -1,6 +1,6 @@
 # PascalCompiler
 
-Projeto proposto pelo professor: Leonardo Massayuki Takuno, para AP1 onde consiste em implementar um analisador léxico e sintático em Python para a linguagem simplificada PascalLite. Ele identifica tokens e valida a estrutura do código fonte.
+Projeto realizado na FIT, proposto pelo professor: Leonardo Massayuki Takuno, para AP1 onde consiste em implementar um analisador léxico e sintático em Python para a linguagem simplificada PascalLite. Ele identifica tokens e valida a estrutura do código fonte.
 
 
 ## Estrutura do Projeto
